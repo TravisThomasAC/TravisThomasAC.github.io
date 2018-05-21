@@ -5,7 +5,7 @@ subtitle: Travis Thomas | 727-494-6850 | travisthomasn@gmail.com
 ---
 ## Education
 Allegheny College, Meadville, PA                                                                                                        
-Expected Graduation Date: May 2018
+Graduation Date: May 2018
 Alden Scholar
 GPA: 3.0
 Bachelor of Science in Economics: Economics and Computer Science Double Major
