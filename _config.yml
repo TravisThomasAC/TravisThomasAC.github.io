@@ -17,7 +17,7 @@ baseurl: ""
 title: Travis Thomas
 
 # Short description of your site
-description: I am Travis Thomas, Computer Science and Economics double-major at Allegheny College.
+description: I am Travis Thomas, Allegheny College class of 2018. B.S. Applied Computing, Economics & Computer Science double major.
 
 # --- Navigation bar options --- #
 
@@ -67,8 +67,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "travisthomasn@gmail.com"
-  linkedin: "https://www.linkedin.com/in/travis-thomas-047509132/"
-  github: "https://github.com/TravisThomasAC"
+  linkedin: "www.linkedin.com/in/travis-thomas-047509132/"
+  github: "github.com/TravisThomasAC"
   twitter: "TravisThomas__"
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -88,7 +88,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
