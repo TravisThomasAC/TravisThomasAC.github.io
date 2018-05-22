@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Resume
 subtitle: Travis Thomas | 727-494-6850 | travisthomasn@gmail.com
 ---
@@ -36,4 +36,3 @@ Meadville, PA
 -	Assisted in planning various volunteer and school sponsored events
 ### Leadership Council
 -	Coordinating overnight event for prospective Allegheny students
-
