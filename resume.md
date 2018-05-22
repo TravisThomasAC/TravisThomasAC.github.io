@@ -11,8 +11,8 @@ GPA: 3.0
 Bachelor of Science in Economics: Economics and Computer Science Double Major
 Track: Managerial Entrepreneurship/ Applied Computing
 ## Skills Profile
-	Basic Java 	 Leadership		   Teamwork		 Basic Databases
-	Python3 	 Communication	   Research
+Basic Java 	 Leadership		   Teamwork		 Basic Databases
+Python3 	 Communication	   Research
 ## Experience
 ### Zip Creative Internship
 Meadville, PA
