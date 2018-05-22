@@ -1,8 +1,8 @@
-----
--layout: post
--title: Resume
--subtitle: Travis Thomas | 727-494-6850 | travisthomasn@gmail.com
-----
+---
+layout: post
+title: Resume
+subtitle: Travis Thomas | 727-494-6850 | travisthomasn@gmail.com
+---
 ## Education
 Allegheny College, Meadville, PA                                                                                                        
 Graduation Date: May 2018
