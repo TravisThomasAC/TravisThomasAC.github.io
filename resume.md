@@ -8,19 +8,20 @@ Allegheny College, Meadville, PA
 Graduation Date: May 2018
 Alden Scholar
 GPA: 3.0
-
-Bachelor of Science in Economics: Economics and Computer Science Double Major
-Track: Managerial Entrepreneurship/ Applied Computing
-### Skills Profile
-**Basic Java** Leadership	**Teamwork** Basic Databases
-
-**Python3** Communication	**Research**
+Bachelor of Science in Economics: Managerial Economics and Computer Science
 
 ### Experience
-*Zip Creative Internship*
+*Zip Creative Internship - Contract Manager*
 Meadville, PA
 - A company created by Allegheny college providing low cost advertisement services
 -	Created client intake forms, recruited clientele, drafted contracts
+
+*180byTwo - Data Analyst*
+Tampa, FL
+- Manages audience database, ensures quality control across platforms
+- Monitors data flow
+- Uses data to improve company efficiency and provide insight
+
 
 ### Relevant Work
 *Software Development*
@@ -37,10 +38,3 @@ Meadville, PA
 -	Four-year letter winner, Peer-elect Unity Council Rep. (Player/Coach liaison)
 -	Player Elected Captain
 -	Outstanding Senior Award Winner
-
-*Student Athletic Advisory Committee - Representative*
--	Represented the football team at SAAC meetings
--	Assisted in planning various volunteer and school sponsored events
-
-*Leadership Council*
--	Coordinating overnight event for prospective Allegheny students
